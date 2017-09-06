@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for Common.test.binea
+//! Project version number for Common.
 FOUNDATION_EXPORT double CommonVersionNumber;
 
 //! Project version string for Common.
