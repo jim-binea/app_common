@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for Common.
+//! Project version number for Common.test
 FOUNDATION_EXPORT double CommonVersionNumber;
 
 //! Project version string for Common.
